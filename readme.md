@@ -16,7 +16,7 @@ To try this code, simply copy the three Java files into your lowest-level teamco
 ### This tutorial consists of four YouTube videos.
 
 Part 1: Overview. https://youtu.be/lpVG2Pl6RGY
-An introduction to the purpose of this FTC tutorial, and some of the caveats that are assumed in it's application.
+An introduction to the purpose of this FTC tutorial, and some of the caveats that are assumed in its application.
 
 Part 2: Autonomous. https://youtu.be/EV7n9rGcxF4
 A walk-through of a sample Autonomous OpMode.
@@ -25,7 +25,7 @@ Part 3: Teleoperation.  https://youtu.be/X7RyAMbP240
 A walk-through of a sample Telop. OpMode.
 
 Part 4: Robot Class. https://youtu.be/eWzGW7ZcPh8
-A walk-through of the hardware classthe Java code istelf, explaing the robot hardware class and the sample teleop and autonomous opmodes.
+A detailed walk-through of the hardware class itself, explaining how the class works and how to adapt it to your robot.
 
 I hope you find this helpful.
 
