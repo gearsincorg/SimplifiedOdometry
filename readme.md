@@ -14,7 +14,7 @@ To try this code in *Android Studio*:  Simply copy the three Java files into you
 
 To try this code in *OnBotJava*:  Use the "Upload" button transfer all three files into your "Project Files" region (see upload.jpg here), and then just do a "Build Everything".
 
-
+NOTE:  
 
 ### This tutorial consists of four YouTube videos.
 
@@ -27,8 +27,9 @@ A walk-through of a sample Autonomous OpMode.
 Part 3: Teleoperation.  https://youtu.be/X7RyAMbP240
 A walk-through of a sample Telop. OpMode.
 
-Part 4: Robot Class. https://youtu.be/eWzGW7ZcPh8
+Part 4: SimplifiedMecanumRobot Class. https://youtu.be/eWzGW7ZcPh8
 A detailed walk-through of the hardware class itself, explaining how the class works and how to adapt it to your robot.
+Note:  This walkthrough was created before the Robot class was renamed to be SimplifiedMecanumRobot so the sample works in OnBotJava.
 
 I hope you find this helpful.
 
