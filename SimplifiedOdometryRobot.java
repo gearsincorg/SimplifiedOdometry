@@ -20,7 +20,7 @@ import org.firstinspires.ftc.robotcore.external.navigation.YawPitchRollAngles;
 
 import java.util.List;
 
-public class Robot {
+public class SimplifiedOdometryRobot {
     // Adjust these numbers to suit your robot.
     private final double ODOM_INCHES_PER_COUNT   = 0.002969;   //  GoBilda Odometry Pod (1/226.8)
     private final boolean INVERT_DRIVE_ODOMETRY  = true;       //  When driving FORWARD, the odometry value MUST increase.  If it does not, flip the value of this constant.
@@ -80,7 +80,7 @@ public class Robot {
     private boolean showTelemetry     = false;
 
     // Robot Constructor
-    public Robot(LinearOpMode opmode) {
+    public SimplifiedOdometryRobot(LinearOpMode opmode) {
         myOpMode = opmode;
     }
 
