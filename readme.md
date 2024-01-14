@@ -10,8 +10,9 @@ If teams have access to one or more adventurous programmers, they can try using 
 
 I think something simpler is needed, so this tutorial is going to take a different approach.  
 
-To try this code in Android Studio:  Simply copy the three Java files into your lowest-level teamcode folder and build your project.
-To try this code in OnBotJava:  Use the "Upload" button transfer all three files into your "Project Files" region (see upload.jpg here), and then just do a "Build Everything".
+To try this code in *Android Studio*:  Simply copy the three Java files into your lowest-level teamcode folder and build your project.
+
+To try this code in *OnBotJava*:  Use the "Upload" button transfer all three files into your "Project Files" region (see upload.jpg here), and then just do a "Build Everything".
 
 
 
